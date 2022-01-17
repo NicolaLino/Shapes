@@ -21,6 +21,7 @@ Measure: For circles, it’s the radius and for squares it’s the side length.
 3. Read data from an input file. The file contains data with the above format (assume that the data in the correct format). 
 4. Create an object for each record (each reeded line from data file) based on its type and save them in an appropriate data structure.
 5. Create a menu that has 3 options as follows (you should write a function for each option):
+
     a. Print colors frequency for each Shape.
     
     b. Print the average area for each type. The program must raise an error ‘{ShapeType} Average Below 
